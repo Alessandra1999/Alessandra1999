@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👱‍♀️ My name is Alessandra
-- 👩‍🎨 Development student
+- 👩‍🎨 Fullstack development intern
 - 👩‍💻 I’m currently learning Full Stack Development
 - 😄 Pronouns: She/Her
 
